@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Layihe\Layihe\bin\Debug\net8.0\Layihe.exe
+C:\Users\Lenovo\source\repos\Layihe\Layihe\bin\Debug\net8.0\Layihe.deps.json
+C:\Users\Lenovo\source\repos\Layihe\Layihe\bin\Debug\net8.0\Layihe.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Layihe\Layihe\bin\Debug\net8.0\Layihe.dll
+C:\Users\Lenovo\source\repos\Layihe\Layihe\bin\Debug\net8.0\Layihe.pdb
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\Layihe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\Layihe.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\Layihe.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\Layihe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\Layihe.dll
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\refint\Layihe.dll
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\Layihe.pdb
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\Layihe.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Layihe\Layihe\obj\Debug\net8.0\ref\Layihe.dll
